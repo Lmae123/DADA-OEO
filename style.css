@@ -45,3 +45,29 @@
     letter-spacing: 2px;
     font-size: 13px;
   }
+  .header-info-block {
+    display: flex;
+    justify-content:space-between;
+  }
+  .card-info {
+    max-width: 361px;
+  }
+  .card-info-img {
+    display: flex;
+  }
+  .info-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 0.5px ;
+    margin-top: 15px;
+    margin-bottom: 4px;
+
+  }
+  .info-subtitle {
+    font-size: 13px;
+    color: #8c8c8c;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    display: block;
+  }

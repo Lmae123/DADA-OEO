@@ -250,7 +250,7 @@
   padding-bottom: 20px;
   padding-left: 20px;
 }
-.img-card-1 {background-image: url(/img/card-1.webp);}
+.img-card-1 {background-image: url(./img/card-1.webp);}
 .btn-time {
   background-color: #fff;
   border-radius: 5px;
@@ -259,7 +259,7 @@
   display: inline-block;
   margin-right: 8px;
 }
-.img-card-3 {background-image: url(/img/card-3.jpg);}
+.img-card-3 {background-image: url(./img/card-3.jpg);}
 .btn-raiting {
   width: 77px;
   background-color: #111;
@@ -291,13 +291,13 @@
   line-height: 1.7;
   letter-spacing: 0.5px;
 }
-.img-card-2 {background-image: url(/img/card-2.webp);}
+.img-card-2 {background-image: url(./img/card-2.webp);}
 .footer {
   background-color: #F5F6F8;
   padding:60px 0;
 
 }
-.img {background-image: url(/img/card-4.jpeg);}
+.img {background-image: url(./img/card-4.jpeg);}
 .course-info-title {
   font-weight: 600;
   font-size: 70px;
